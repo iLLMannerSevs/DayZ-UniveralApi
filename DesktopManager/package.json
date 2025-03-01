@@ -73,7 +73,7 @@
     "jsonwebtoken": "^9.0.0",
     "languagedetect": "^2.0.0",
     "log4js": "^6.4.0",
-    "mongodb": "^4.6.0",
+    "mongodb": "^4.17.0",
     "node-fetch": "^2.6.7",
     "node-wit": "^6.2.1",
     "saslprep": "^1.0.3",
